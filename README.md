@@ -1,1 +1,1 @@
-This is the analysis of a Heating, Cooling, Ventilation and Air Conditioning (HVAC) System to improve comfort of tenant, systems performance
+This is the analysis of a Heating, Cooling, Ventilation and Air Conditioning (HVAC) System to improve comfort of tenant, systems performance. Energy consumption per cooling degree day, timely variation of various factors and factors affecting Chiller Energy consumption were analyzed.
